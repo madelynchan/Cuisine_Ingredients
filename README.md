@@ -1,3 +1,3 @@
 # Cuisine_Ingredients
-CSE 442 (Winter 2022) - With Evan Hao, Yoonseo Song and Kimi Locke
+CSE 442 (Winter 2022) - With Evan Hao, Yoonseo Song and Kimi Locke \n
 Visualization Website: https://cse442-22w.github.io/FP-sentence-structure/
